@@ -1,0 +1,20 @@
+.box1{
+  background-color: orange;
+  width: 200px;
+  height: 200px;
+}
+
+.box2{
+  background-color: skyblue;
+  width: 50%;
+  height: 50%;
+  /* 文字がオーバーしたら隠す */
+  /* overflow: hidden; */
+  
+  /* スクロールできる */
+  overflow: scroll;
+}
+
+.box3{
+  background-color: tomato;
+}
